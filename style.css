@@ -1,0 +1,55 @@
+body{
+
+    color: white;
+    border:2px solid white;
+    max-width: 1400px;
+    margin: auto;
+    background-image: url("Sources/1-point_black copy.png");
+    background-color: #cccccc;
+    background-clip: content-box;
+    background-repeat: round;
+    font-family: "Times New Roman", Times, serif;
+}
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+.header{
+
+    text-align: center;
+    color: white;
+}
+
+.profile{
+    text-align: center;
+    color: white;
+}
+
+.education{
+    text-align: center;
+    color: white;
+}
+
+.experience{
+  text-align: center;
+  color: white;
+}
+
+.technical{
+  text-align: center;
+  color: white;
+}
+
+.date{
+  text-align: left;
+  max-width: 800px;
+}
